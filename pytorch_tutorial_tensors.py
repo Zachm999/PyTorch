@@ -1,6 +1,6 @@
 #Intializing Tensors 
 import torch
-import numpy as np
+import numpy as np #testing a change to the git
 
 #Tensors can initialized directly from data
 data = [[1, 2],[3, 4]]
